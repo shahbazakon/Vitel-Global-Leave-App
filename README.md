@@ -3,7 +3,7 @@
 A new Flutter project for employee leave approval management.
 
 
-![Image](https://github.com/user-attachments/assets/83678e4e-e89b-40a2-9faf-8d978215fc12)
+https://github.com/user-attachments/assets/679bf476-5853-417d-a02c-0c6d233bcc61
 
 ## 📌 Overview
 
